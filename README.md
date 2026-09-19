@@ -339,14 +339,48 @@ More certifications and projects will be added as I complete them.
 <!--                     CONTRIBUTIONS                         -->
 <!-- ========================================================= -->
 
-## Contribution Activity
+<!-- ========================================================= -->
+<!--                    GITHUB ANALYTICS                       -->
+<!-- ========================================================= -->
+
+<h2 align="center">GitHub Analytics</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td>
+<img
+  src="./profile/stats.svg"
+  width="495"
+  alt="GitHub Statistics"
+/>
+</td>
+
+<td>
+<img
+  src="./profile/top-langs.svg"
+  width="335"
+  alt="Most Used Languages"
+/>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=etoodimalla7-art&hide_border=true"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=etoodimalla7-art&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
+    alt="GitHub Contribution Activity"
+    width="800"
   />
 </p>
+
 
 ---
 
