@@ -308,21 +308,30 @@ More certifications and projects will be added as I complete them.
 <!--                  GITHUB STATISTICS                        -->
 <!-- ========================================================= -->
 
-## GitHub Statistics
+<!-- ========================================================= -->
+<!--                  GITHUB STATISTICS                        -->
+<!-- ========================================================= -->
 
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    alt="Eto'o Dimalla's GitHub Statistics"
-    width="495"
-  />
+<h2>GitHub Statistics</h2>
 
-  <img
-    src="./profile/top-langs.svg"
-    alt="Top Languages"
-    width="335"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td width="60%">
+      <img
+        src="./profile/stats.svg"
+        alt="GitHub Statistics"
+        width="100%"
+      />
+    </td>
+    <td width="40%">
+      <img
+        src="./profile/top-langs.svg"
+        alt="Most Used Languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
