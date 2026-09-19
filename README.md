@@ -13,13 +13,13 @@ B.Sc. Artificial Intelligence & Machine Learning Student
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/jean-emmanuel-eto-o-dimalla-135b25385/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:etoodimalla7@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/etoodimalla7-art">
@@ -130,18 +130,98 @@ I believe in learning by **building, experimenting and solving real-world proble
 <!-- ========================================================= -->
 <!--                     FEATURED PROJECTS                     -->
 <!-- ========================================================= -->
+<!-- ========================================================= -->
+<!--                 WEBSITES & CLIENT PROJECTS                -->
+<!-- ========================================================= -->
 
-## Featured Projects
+## Websites & Client Projects
+
+### Beauty by Asty
+
+**Luxury Makeup Artist Website — Abidjan, Côte d'Ivoire**
+
+A premium editorial-style website designed for Beauty by Asty, a professional makeup artist based in Abidjan.
+
+The website focuses on presenting the brand, services and portfolio through a refined luxury aesthetic while making it easy for clients to get in touch and book appointments.
+
+**Highlights:**
+
+- Luxury editorial visual design
+- Responsive mobile-first experience
+- French / English language support
+- Makeup services presentation
+- Portfolio / gallery
+- WhatsApp booking integration
+- Instagram integration
+- Premium brand-focused UI
+- Custom visual identity
+
+**Stack:**
+
+`HTML` `CSS` `JavaScript` `Responsive Design` `UI/UX`
+
+<p>
+  <a href="YOUR_BEAUTY_BY_ASTY_URL">
+    <img src="https://img.shields.io/badge/Live%20Website-Visit%20Website-B8895A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### L'Empreinte d'Emil
+
+**Luxury E-Commerce Website — Douala, Cameroon**
+
+A luxury online shopping experience created for L'Empreinte d'Emil, a fashion and beauty-focused brand based in Douala.
+
+The website was designed around a premium black, gold and white visual identity while providing a mobile-friendly shopping experience and direct customer communication.
+
+**Highlights:**
+
+- Luxury e-commerce design
+- Black / gold / white visual identity
+- French / English experience
+- Mobile-first interface
+- Product showcase
+- WhatsApp ordering
+- Delivery information
+- Social media integration
+- Luxury packaging presentation
+- Customer-focused shopping experience
+
+**Stack:**
+
+`HTML` `CSS` `JavaScript` `Responsive Design` `E-Commerce`
+
+<p>
+  <a href="YOUR_LEMPREINTE_DEMIl_URL">
+    <img src="https://img.shields.io/badge/Live%20Website-Visit%20Website-C9A227?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### Other Web Projects
+
+I'm continuously building and experimenting with websites and digital products for businesses, personal projects and real-world use cases.
+
+**Areas:**
+
+`Business Websites` `Landing Pages` `E-Commerce` `UI/UX` `Web Applications` `AI-Powered Websites`
+
+---
+
+## AI & Software Projects
 
 ### FIXO
 
 **AI-powered services application**
 
-FIXO is a services application designed to connect customers with service professionals while providing features such as worker discovery, profiles, ratings, recommendations, transactions and service management.
+A services application designed to connect customers with service professionals while providing intelligent worker discovery, profiles, ratings, recommendations and transaction management.
 
 **Focus:**
 
-`AI Recommendations` `Full-Stack Development` `Mobile` `Payments` `Automation`
+`Artificial Intelligence` `Full-Stack Development` `Recommendations` `Mobile` `Payments`
 
 ---
 
@@ -149,7 +229,7 @@ FIXO is a services application designed to connect customers with service profes
 
 **Desktop AI Assistant**
 
-AURA is a desktop assistant concept focused on natural-language and voice-based interaction with a computer.
+A desktop AI assistant concept focused on natural-language and voice-based interaction with a computer.
 
 **Focus:**
 
@@ -161,17 +241,17 @@ AURA is a desktop assistant concept focused on natural-language and voice-based 
 
 **Machine Learning Sports Analytics**
 
-A machine-learning project focused on analysing football data and generating statistical predictions from historical and current performance data.
+A machine-learning project focused on analysing football data, team performance and player statistics.
 
 **Focus:**
 
-`Python` `Machine Learning` `Data Analysis` `APIs` `Statistics`
+`Python` `Machine Learning` `Data Analysis` `Statistics` `APIs`
 
 ---
 
 ### AI & Machine Learning Projects
 
-A collection of academic and experimental projects covering:
+Academic and experimental projects covering:
 
 - Machine Learning
 - Deep Learning
@@ -303,7 +383,7 @@ I'm always interested in connecting with developers, AI/ML enthusiasts, students
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/jean-emmanuel-eto-o-dimalla-135b25385/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -311,7 +391,7 @@ I'm always interested in connecting with developers, AI/ML enthusiasts, students
 <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:etoodimalla7@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
