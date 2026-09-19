@@ -303,38 +303,6 @@ Currently expanding my knowledge through academic studies, professional courses 
 
 More certifications and projects will be added as I complete them.
 
----
-<!-- ========================================================= -->
-<!--                  GITHUB STATISTICS                        -->
-<!-- ========================================================= -->
-
-<!-- ========================================================= -->
-<!--                  GITHUB STATISTICS                        -->
-<!-- ========================================================= -->
-
-<h2>GitHub Statistics</h2>
-
-<table align="center">
-  <tr>
-    <td width="60%">
-      <img
-        src="./profile/stats.svg"
-        alt="GitHub Statistics"
-        width="100%"
-      />
-    </td>
-    <td width="40%">
-      <img
-        src="./profile/top-langs.svg"
-        alt="Most Used Languages"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
-
----
-
 <!-- ========================================================= -->
 <!--                     CONTRIBUTIONS                         -->
 <!-- ========================================================= -->
