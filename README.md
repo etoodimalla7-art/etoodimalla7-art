@@ -312,17 +312,17 @@ More certifications and projects will be added as I complete them.
 ## GitHub Statistics
 
 <p align="center">
-
   <img
-    src="https://github-readme-stats.vercel.app/api?username=etoodimalla7-art&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=etoodimalla7-art&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Eto'o Dimalla's GitHub Statistics"
   />
+</p>
 
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=etoodimalla7-art&layout=compact&hide_border=true"
-    height="170"
+    alt="Top Languages"
   />
-
 </p>
 
 ---
