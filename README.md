@@ -304,11 +304,6 @@ Currently expanding my knowledge through academic studies, professional courses 
 More certifications and projects will be added as I complete them.
 
 ---
-
-<!-- ========================================================= -->
-<!--                    GITHUB STATISTICS                     -->
-<!-- ========================================================= -->
-
 <!-- ========================================================= -->
 <!--                  GITHUB STATISTICS                        -->
 <!-- ========================================================= -->
