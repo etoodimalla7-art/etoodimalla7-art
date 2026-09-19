@@ -161,7 +161,7 @@ The website focuses on presenting the brand, services and portfolio through a re
 `HTML` `CSS` `JavaScript` `Responsive Design` `UI/UX`
 
 <p>
-  <a href="YOUR_BEAUTY_BY_ASTY_URL">
+  <a href="https://beauty-by-asty.onrender.com/">
     <img src="https://img.shields.io/badge/Live%20Website-Visit%20Website-B8895A?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
@@ -194,7 +194,7 @@ The website was designed around a premium black, gold and white visual identity 
 `HTML` `CSS` `JavaScript` `Responsive Design` `E-Commerce`
 
 <p>
-  <a href="YOUR_LEMPREINTE_DEMIl_URL">
+  <a href="https://lempreinte-demil.onrender.com/">
     <img src="https://img.shields.io/badge/Live%20Website-Visit%20Website-C9A227?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
